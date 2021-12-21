@@ -1,0 +1,30 @@
+Designator,Quantity,Comment,Case/Package,Manufacturer Product Number,Order Link,Unit_Price,Component_Price
+,,,,,,,
+C1,1,100uF,,CK1H107M10010VR,https://ozdisan.com/pasif-komponentler/kondansatorler/aluminyum-kondansatorler/CK1H107M10010VR,"3,73","3,73"
+C2,1,330uF,,BDS35VC330MJ10TP,https://ozdisan.com/pasif-komponentler/kondansatorler/aluminyum-kondansatorler/BDS35VC330MJ10TP,"4,58","4,58"
+"C3, C4",2,22pF,603,CL10C220JB8NNNC,https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CL10C220JB8NNNC,"0,14","0,28"
+C5,1,4u7,603,CL10A475KP8NNNC,https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CL10A475KP8NNNC,"0,2","0,2"
+"C6, C7, C8, C9, C10, C12, C13",7,100n,603,C0603C104J5RAC7867,https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/C0603C104J5RAC7867,"0,38","2,66"
+C11,1,1u,603,CL10B105KA8NNNC,https://ozdisan.com/pasif-komponentler/kondansatorler/smt-smd-ve-mlcc-kondansatorler/CL10B105KA8NNNC,"0,14","0,14"
+"D1, D2",2,DIODE,SOD123,BYS10-45-E3/TR3,https://ozdisan.com/guc-yari-iletkenleri/diyotlar-modul-diyotlar-ve-dogrultucular/schottky-diyotlar/BYS10-45-E3TR3,"4,25","8,5"
+"D3, D4",2,RED,603,HL-PST-1608S9AC,https://ozdisan.com/led-ve-aydinlatma-cozumleri/led-komponentler/sinyal-ledler-renkli/HL-PST-1608S9AC,"0,33","0,66"
+"D5, D6",2,BLUE,603,27-21/B7C-ZR1S1N/3C,https://ozdisan.com/led-ve-aydinlatma-cozumleri/led-komponentler/sinyal-ledler-renkli/27-21B7C-ZR1S1N3C,"2,28","4,56"
+FB1,1,FB0805,805,LCB2012-101Y-N,https://ozdisan.com/pasif-komponentler/induktorler/bead-feritler/LCB2012-101Y-N,"0,31","0,31"
+J1,1,SWITCH,2P,DG129-5.08-02P-14-00SH,https://ozdisan.com/konnektor-ve-baglanti-elemanlari/klemensler/pcb-klemensler/DG129-5-08-02P-14-00SH,"4,49","4,49"
+J2,1,POWER,2P,DG129-5.08-02P-14-00SH,https://ozdisan.com/konnektor-ve-baglanti-elemanlari/klemensler/pcb-klemensler/DG129-5-08-02P-14-00SH,"4,49","4,49"
+J3,1,TYPEB,TYPEB,,,,1
+JP1,1,PROG_PINS,,,,,1
+L1,1,470uH,,FPI1005-471K,https://ozdisan.com/pasif-komponentler/induktorler/sabit-induktorler/FPI1005-471K,"3,99","3,99"
+"R1, R4, R7, R8",4,560,603,0603SAJ0561T5E,https://ozdisan.com/pasif-komponentler/direncler/smt-smd-ve-cip-direncler/0603SAJ0561T5E,"0,03","0,12"
+"R2, R3",2,10k,603,CQ03SAF1002T5E,https://ozdisan.com/pasif-komponentler/direncler/smt-smd-ve-cip-direncler/CQ03SAF1002T5E,"0,06","0,12"
+R5,1,100,603,0603SAJ0101T5E,https://ozdisan.com/pasif-komponentler/direncler/smt-smd-ve-cip-direncler/0603SAJ0101T5E,"0,03","0,03"
+R6,1,TRIMPOT,,,,,1
+U1,1,LM2575-ONS,D2PAK,LM2575D2T-3.3R4G,https://ozdisan.com/entegre-devreler-ics/guc-entegreleri/dc-dc-voltaj-regulatorleri/LM2575D2T-3-3R4G,"41,51","41,51"
+U2,1,STM32F103C8T6,,,,,1
+U3,1,NUF2042XV6T1G,SOT563,NUF2042XV6T1G,https://ozdisan.com/entegre-devreler-ics/filtreler/emi-rfi-filtre-entegreleri/NUF2042XV6T1G,"5,87","5,87"
+U4,1,FT232RL,SSOP28,FT232RL-REEL,https://ozdisan.com/entegre-devreler-ics/interface-entegreleri/arayuz-kontrolor-entegreleri/FT232RL-REEL,"136,56","136,56"
+Y1,1,8MHZ-CRY,4-SMD,H130B-8.000-18-3030-EXT-,https://ozdisan.com/pasif-komponentler/kristaller-osilatorler-ve-rezanatorler/kristaller/H130B-8-000-18-3030-EXT-,"7,78","7,78"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,TOTAL PRICE (WITHOUT KDV)= TL,,"234,58"
